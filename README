@@ -1,0 +1,16 @@
+
+Connection:
+Keypad R1 = Omega2 GPIO 0
+Keypad R2 = Omega2 GPIO 1
+Keypad R3 = Omega2 GPIO 2
+Keypad R4 = Omega2 GPIO 3
+Keypad C1 = Omega2 GPIO 18
+Keypad C2 = Omega2 GPIO 11
+Keypad C3 = Omega2 GPIO 8 
+Keypad C4 = Omega2 GPIO 9
+
+![connection](http://github.com/TODO)
+
+Buy keypad:
+10 pcs High Quality 4x4 Matrix Array 16 Key Membrane Switch Keypad Keyboard Control Panel Microprocessor Keyboard for Arduino (Price: US $5.30 / lot  10 pieces / lot , US $0.53 / piece) 
+https://www.aliexpress.com/item/10-pcs-High-Quality-4x4-Matrix-Array-16-Key-Membrane-Switch-Keypad-Keyboard-Control-Panel-Microprocessor/1719026531.html
